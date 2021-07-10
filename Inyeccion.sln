@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inyeccion", "Inyeccion\Inyeccion.csproj", "{0EA28C8A-70CB-47AB-AEF9-956197B45AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLInjection", "XMLInjection\XMLInjection.csproj", "{F1FFA843-C782-4E9F-9417-AF514AFFBFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EA28C8A-70CB-47AB-AEF9-956197B45AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA28C8A-70CB-47AB-AEF9-956197B45AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA28C8A-70CB-47AB-AEF9-956197B45AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA28C8A-70CB-47AB-AEF9-956197B45AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FFA843-C782-4E9F-9417-AF514AFFBFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FFA843-C782-4E9F-9417-AF514AFFBFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FFA843-C782-4E9F-9417-AF514AFFBFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FFA843-C782-4E9F-9417-AF514AFFBFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A777FA-E4B5-4702-AC78-A49EEF502F01}
+	EndGlobalSection
+EndGlobal
